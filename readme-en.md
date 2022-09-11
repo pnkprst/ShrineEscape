@@ -35,6 +35,7 @@
  ``$ login -e mrskr``\
  login: the command\
  -e: difficulty. It can be e(Easy), n(Normal), h(Hard), l(Lunartic)\
+ If mode was omitted, mode can be easy automatly.
  mrskr: account name\
  \
  To logout, input ``logout`` on command.\
