@@ -1,4 +1,4 @@
-# Escape from Hakurei shrine
+# Escape from Hakurei shrine v0.00
 
 # Introduce
  This program is Text adventure.
@@ -9,6 +9,7 @@
  1. Open command prompt.
  2. Input the text ``python game.py -`` + mode\
  modes can be ``e``, ``k``, ``j``, ``c``, ``r`` \
+ mode can be omitted and language can be English automatly.
  -e: Execute program by English.\
  -k: Execute program by Korean.\
  -j: Execute program by Japanese. (did not made.)\
@@ -18,14 +19,13 @@
  **ex)** ``python game.py -e``
 
 ## 2. Structure of the program (did not made.)
- ``[mrskr|usrf] $ _``\
+ ``[mrskr|usrf] $ ``\
  mrskr: account name\
    It can be mrskr, kcysn, skyiz, hktylp, rimhk.\
  usrf: account right\
    \_adm (admin): Can use all command\
    usrg (guest user): Can use some command\
    usrf (friend user): Can use command more than guest.\
- \_: You can input commnad now. (Not in game view.)\
  \
  **ex)**\
  ``[mrskr|usrf] $ open closet``\
