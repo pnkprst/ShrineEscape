@@ -21,7 +21,7 @@
 ## 2. 프로그램의 구조 (미구현)
  ``[mrskr|usrf] $ ``\
  mrskr: 계정명\
-   mrskr, kcysn, skyiz, hctylp중 하나가 될 수 있습니다.\
+   mrskr, kcysn, skyiz, hctylp, rimhk중 하나가 될 수 있습니다.\
  usrf: 계정권한\
    \_adm (관리자): 모든 명령어를 입력할 수 있습니다.\
    usrg (방문자): 제한된 명령어를 입력할 수 있습니다.\
