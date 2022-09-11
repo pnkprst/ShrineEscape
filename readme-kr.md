@@ -30,7 +30,7 @@
  **예)**\
  ``[mrskr|usrf] $ open closet``\
  ``[kcysn|usrg] $ unzip rainbow-box 3146``\
- 
+ \
 ## 3. 게임시작에서 접속하기 (미구현)
  ``$ login -e mrskr``\
  login: 명령어\
