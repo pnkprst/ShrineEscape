@@ -21,7 +21,7 @@
 ## 2. Structure of the program (did not made.)
  ``[mrskr|usrf] $ ``\
  mrskr: account name\
-   It can be mrskr, kcysn, skyiz, hktylp\
+   It can be mrskr, kcysn, skyiz, hctylp\
  usrf: account right\
    \_adm (admin): Can use all command\
    usrg (guest user): Can use some command\
