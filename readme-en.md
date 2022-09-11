@@ -21,7 +21,7 @@
 ## 2. Structure of the program (did not made.)
  ``[mrskr|usrf] $ ``\
  mrskr: account name\
-   It can be mrskr, kcysn, skyiz, hktylp, rimhk.\
+   It can be mrskr, kcysn, skyiz, hktylp\
  usrf: account right\
    \_adm (admin): Can use all command\
    usrg (guest user): Can use some command\
@@ -36,8 +36,6 @@
  login: the command\
  -e: difficulty. It can be e(Easy), n(Normal), h(Hard), l(Lunartic)\
  mrskr: account name\
- If you want to login by rimhk, input password behind of account name.\
- (It is easter-egg.)\
  \
  To logout, input ``logout`` on command.\
  **Warning!** Going is Disappear if you have logout.
