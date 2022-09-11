@@ -1,8 +1,43 @@
 # Escape from Hakurei shrine
-----
-### How to execute game.py
+
+# Introduce
+ This program is Text adventure.
+ Input text command to escape the shrine.
+ Resourse is Touhou project.
+
+## 1. How to execute game.py
  1. Open command prompt.
  2. Input the text ``python game.py -`` + mode\
- modes can be ``-e``, ``-k`` \
- -e: Execute program by English. \
- -k: Execute program by Korean. 
+ modes can be ``e``, ``k``, ``j``, ``c``, ``r`` \
+ -e: Execute program by English.\
+ -k: Execute program by Korean.\
+ -j: Execute program by Japanese. (did not made.)\
+ -c: Execute program by Chinese. (did not made.)\
+ -r: Execute program by Russian (did not made.)\
+ \
+ **ex)** ``python game.py -e``
+
+## 2. Structure of the program (did not made.)
+ ``[mrskr|usrf] $ _``\
+ mrskr: account name\
+   It can be mrskr, kcysn, skyiz, hktylp, rimhk.\
+ usrf: account right\
+   \_adm (admin): Can use all command\
+   usrg (guest user): Can use some command\
+   usrf (friend user): Can use command more than guest.\
+ \_: You can input commnad now. (Not in game view.)\
+ \
+ **ex)**\
+ ``[mrskr|usrf] $ open closet``\
+ ``[kcysn|usrg] $ unzip rainbow-box 3146``\
+ 
+## 3. Login from starting game (did not made.)
+ ``$ login -e mrskr``\
+ login: the command\
+ -e: difficulty. It can be e(Easy), n(Normal), h(Hard), l(Lunartic)\
+ mrskr: account name\
+ If you want to login by rimhk, input password behind of account name.\
+ (It is easter-egg.)\
+ \
+ To logout, input ``logout`` on command.\
+ **Warning!** Going is Disappear if you have logout.
