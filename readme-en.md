@@ -30,7 +30,7 @@
  **ex)**\
  ``[mrskr|usrf] $ open closet``\
  ``[kcysn|usrg] $ unzip rainbow-box 3146``\
- 
+ \
 ## 3. Login from starting game (did not made.)
  ``$ login -e mrskr``\
  login: the command\
